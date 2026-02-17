@@ -72,3 +72,5 @@ This encourages them buying more pizzas and ensures they keep coming back for wh
 The restaurant already offers 32 pizza types and based on the analysis on the category, New menu can be curate to introduce more varieties in high-demand categories and remove rarely ordered categories. 
 
 
+The restaurant should continuously monitor sales patterns to adjust pricing, promotions, staffing, and menu offerings in real time.
+
